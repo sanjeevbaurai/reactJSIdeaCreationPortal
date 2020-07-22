@@ -1,0 +1,49 @@
+.idea {
+    overflow: scroll;
+}
+.idea button {
+    color: #fff;
+    margin-left: 0;
+}
+
+.idea h1,h2 {
+    text-align: center;
+    color: #3399ff;
+    margin-top: 20px !important;
+}
+
+.idea .header {
+    text-align: center
+}
+
+.form-row {
+    margin-bottom: 20px
+}
+
+.idea .form-row > input {
+    flex: 1 1;
+}
+
+.idea .form-row > textarea:not([name="detailedDesc"]){
+    flex: 1 1;
+}
+
+.form-row:last-child {
+    justify-content: center
+}
+
+.idea label {
+    margin-left: 10px
+}
+
+.idea textarea {
+    height: 100px;
+}
+
+.idea textarea[name="detailedDesc"] {
+    height: 150px;
+}
+
+.idea input:read-only, .idea textarea:read-only  {
+    background: #dddddd;
+}

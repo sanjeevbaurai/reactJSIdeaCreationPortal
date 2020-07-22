@@ -1,0 +1,47 @@
+{
+    "SecurityQuestions": [
+    {
+            "id":0,
+            "securityQuestion": "Select…"
+    },
+    {
+       "id":1,
+       "securityQuestion": "What was your favorite place to visit as a child?"
+    },
+    {   
+        "id":2,
+        "securityQuestion":"Who is your favorite actor, musician, or artist?"
+    },
+    {   
+        "id":3,
+        "securityQuestion":"In what city were you born?"
+    },
+    {   
+        "id":4,
+        "securityQuestion":"What high school did you attend?"
+    },
+    {   
+        "id":5,
+        "securityQuestion":"What is the name of your first school?"
+    },
+    {   
+        "id":6,
+        "securityQuestion":"What is your favorite movie?"
+    }
+    ,{   
+        "id":7,
+        "securityQuestion":"What is your mother's maiden name?"
+    },
+    {   
+        "id":8,
+        "securityQuestion":"When is your anniversary?"
+    },
+    {   
+        "id":9,
+        "securityQuestion":"what is your favorite social media website?"
+    }
+
+       
+    ]
+    
+}

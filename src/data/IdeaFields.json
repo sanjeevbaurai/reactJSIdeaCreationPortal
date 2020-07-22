@@ -1,0 +1,24 @@
+{
+    "SubmittedIdeas": [
+        "ID",
+        "Title",
+        "Idea Status",
+        "Problem",
+        "Status Changed(Date)",
+        "Implementation Priority"
+    ],
+    "SavedIdeas": [
+        "SL No",
+        "Title",
+        "Status"
+    ],
+    "AllIdeas": [
+        "ID",
+        "Title",
+        "Problem",
+        "Idea Status",
+        "Idea Classification",
+        "Account",
+        "Implemented End Date"
+    ]
+}

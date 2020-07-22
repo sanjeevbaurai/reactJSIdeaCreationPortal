@@ -1,0 +1,170 @@
+
+.coverpage{
+    /* background:  url('../images/background-flower.jpg') center no-repeat ; */
+    background:#ccc;
+    min-height: 100vh;
+    flex: 0 0 auto;
+    padding: 20px 0;
+    color: white;
+    display: flex;
+    background-size: cover;
+}
+#login-container{
+    z-index: 9;
+    position: absolute;
+    left:0;
+}
+.card{
+    border:0 !important;
+    background:transparent !important;
+}
+
+ .loginPanel{
+    display: flex;
+    flex-wrap: wrap;
+}
+.loginPanel small, .loginPanel .lbl{
+    color:#fff;
+}
+.loginPanel label{
+    flex: 1 1;
+}
+
+.company_logo{
+    width: 154px;
+    height: 30px;
+    padding: 0;
+}
+.loginHeader{
+    padding: 0;
+}
+
+.loginHeader  h4{
+    color: #fff;
+    font-size: .9em;
+    justify-content: center;
+    flex-direction: column;
+    text-align: left;
+    font-family: helvetica, Arial, sans-serif;
+}
+.loginPanel{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card-body small{
+    color: #fff;
+    text-align:center;
+}
+.card-body small.red{
+    color: #d43b3b;
+}
+.card-body strong{
+    color: #fff;
+    text-align:center;
+}
+.navbar-laravel
+{
+    box-shadow: 0 2px 4px rgba(0,0,0,.04);
+}
+
+.navbar-brand , .nav-link, .my-form, .login-form
+{
+    font-family: Raleway, sans-serif;
+}
+
+.my-form
+{
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.my-form .row
+{
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.login-form
+{
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.login-form .row
+{
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.form-group label{
+    color: #fff;
+    font-size: .80em;
+    font-weight: normal;
+    font-family: helvetica, Arial, sans-serif;
+}
+.form-group #title label{
+    color: #333;
+    font-size: .9em;
+    font-weight: bold;
+}
+.coverpage .btn{
+    font-size: 0.7em;
+    background: none #0069d9;
+    border-color: #0062cc;
+    color: #fff;
+    border-radius: 0;
+    border:0;
+}
+.form-control{
+    font-size: 0.75em !important;
+}
+.coverpage a{
+    color: #fff;
+}
+
+.coverpage  a:hover,
+.coverpage .btn {
+    color: #ccc;
+    text-decoration: none;
+}
+.coverpage .btn-primary.focus, .coverpage .btn-primary:focus {
+    box-shadow: none;
+}
+
+.has-error .checkbox, .has-error .checkbox-inline, .has-error .control-label, .has-error .help-block, .has-error .radio, .has-error .radio-inline, .has-error.checkbox label, .has-error.checkbox-inline label, .has-error.radio label, .has-error.radio-inline label {
+    color: #a94442;
+}
+.help-block {
+    font-size: 0.75em;
+}
+
+.instruction{
+    font-weight: 500;
+    font-size: .8em;
+    color: #fff;
+}
+.form-group label.instruction {
+    font-weight: 500;
+    font-size: 0.8em;
+    color: #fff;
+}
+
+.portalHeader .card-title{
+    color: #fff;
+    font-size: 2em;
+    margin-bottom: 0;
+}
+
+.portalHeader h4{
+    color: #fff;
+    font-size: 1em;
+    font-style: italic;
+}
+#registerCard{
+    background: #0F1C50 !important;
+}
+
+.alert-danger{
+    z-index: 99;
+}

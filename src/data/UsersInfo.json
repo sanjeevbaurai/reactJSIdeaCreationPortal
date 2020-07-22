@@ -1,0 +1,15 @@
+{
+  "userlist": 
+   [
+        {
+        "userId":14534,    
+        "username":"sanjeev.baurai@gmail.com",
+        "password":"Test123",
+        "firstName":"Sanjeev",
+        "lastName":"Baurai",
+        "domain": "UK",
+        "role":"admin",
+        "account":"all"
+        }
+      ]
+}

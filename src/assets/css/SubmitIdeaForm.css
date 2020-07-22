@@ -1,0 +1,24 @@
+.idea .btn {
+    margin-right: 10px
+}
+button[type='submit'] a{
+    color: white;
+    text-decoration: none;
+}
+.hidden{
+    display: none;
+}
+
+.form-group .form-row label{
+    font-size: 1.2em;
+    font-weight: normal;
+}
+
+.idea textarea[name="detailedDesc"] {
+    background: #fff !important
+}
+ textarea[name="detailedDesc"]:focus {
+    outline: none !important ;
+    border-color: #ccc;
+    box-shadow: none;
+}

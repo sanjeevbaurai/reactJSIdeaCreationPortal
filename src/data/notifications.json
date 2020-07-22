@@ -1,0 +1,25 @@
+{
+    "notifications":[
+        {
+            "id":1,
+            "text":"Asad has requested access to Telefonica account  'I have recently joined Telefonica, please provide me access to Telefonica account'",
+             "time":"15 minites ago"
+        },
+        {
+            "id":2,
+            "text":"Nitin has requested access to Telefonica account  'I want to join Telefonica, please provide me access to Telefonica account'",
+            "time":"2 hours ago"
+        },
+        {
+            "id":3,
+            "text":"Sri Ram Kumar has requested access to Telefonica account  'I just joined Telefonica, please provide me access to Telefonica account'",
+            "time":"3 hours ago"
+        },
+        {
+            "id":4,
+            "text":"Murli Vijay has requested access to Telefonica account  'I just joined Telefonica, please provide me access to Telefonica account'",
+            "time":"3 hours ago"
+        }
+    ]
+
+}

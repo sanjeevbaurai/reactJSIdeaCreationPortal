@@ -1,0 +1,47 @@
+.App-footer {
+    background-color: #f1f1f1;
+    min-height: 5vh;
+    flex: 0 0 auto;
+    align-items: center;
+    justify-content: space-around;
+    font-size: calc(10px + 1vmin);
+    color:grey;
+    border-top: solid 1px #fff;
+    bottom: 0;
+  }
+  .footerName{
+    font-size: 16px;
+    text-align: center;
+    padding: 10px;
+  }
+  .InfoBot .popup-content {
+    width: 400px !important;
+    border-radius: 5px 8px;
+    padding: 0 !important;
+    left:0 !important;
+    overflow-y:auto;
+    background: red;
+  }
+  .InfoBot .popup-content .css-1wi3416, [data-css-1wi3416] {
+    margin-left: 40px !important;
+    margin-right: 40px !important;
+}
+.css-1t62idy.css-990gl9{
+  /* background:  url('../images/background-flower.jpg') center center no-repeat !important;
+  background-size: 50% 50%; */
+  height: 490px !important;
+  object-fit:contain;
+}
+.css-1t62idy.css-990gl9 span{
+  color: #7d7a7a;
+}
+p.plain{
+color: #136688;
+}
+.markdown p{
+  color: green;
+}
+.InfoBot .popup-content .css-hgucfj > .content, [data-css-hgucfj] > .content {
+  flex-grow: 2;
+  overflow: visible !important;
+}

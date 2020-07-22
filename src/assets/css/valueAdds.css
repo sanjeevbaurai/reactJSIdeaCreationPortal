@@ -1,0 +1,106 @@
+.header h2, h3, h4{
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    color: #fff;
+}
+.Main{
+    display: flex;
+}
+.innerContainer{
+    flex: 3;
+    justify-items: center;
+    align-items: center;
+}
+.ideaFilter{
+    border: solid 1px #9bc0ef;
+    flex: 2;
+    margin:10px;
+    justify-items: center;
+    align-items: center;
+    padding: 25px;
+
+}
+.ideaFilter div{
+    width: 200px;
+    height: 35px;
+    font-size: 15px;
+    color: #fff;
+    background: #8ca8e0;
+    padding: 10px;
+    border: solid 1px green;
+    margin: 5px;
+    display: inline-flex;
+}
+.ValueAddsGraph{
+    flex: 1;
+}
+
+.valueAdditionPage{
+  padding: 40px 0px 0 0px;
+ }   
+.keywordSearch{
+    width: 100%;
+    margin-right: 5px;
+    height: 35px;
+    font-size: 1em;
+    box-sizing: border-box;
+    margin-top: 2.75em;
+}
+.width-100{
+    width: 100% !important;
+}
+
+.myIdeas{
+    width:100%;
+}
+#page-numbers {
+    list-style: none;
+    display: flex;
+  }
+  
+  #page-numbers > li {
+    margin-right: 0.3em;
+    color: blue;
+    user-select: none;
+    cursor: pointer;
+  }
+
+  .no-result{
+      font-size: 1.5em;
+      color: red;
+  }
+  .multiselect {
+    width: 200px;
+  }
+  
+  .selectBox {
+    position: relative;
+  }
+  
+  .selectBox select {
+    width: 100%;
+    font-weight: bold;
+  }
+  
+  .overSelect {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+  }
+  
+  #checkboxes {
+    display: none;
+    border: 1px #dadada solid;
+  }
+  
+  #checkboxes label {
+    display: block;
+    font-weight: normal;
+  }
+  
+  #checkboxes label:hover {
+    background-color: #1e90ff;
+  }

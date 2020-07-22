@@ -1,0 +1,69 @@
+.myQueue {
+    margin: 10px 0px 5px 10px;
+}
+
+.myQueue button {
+    margin-left: 0;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    outline: none;
+}
+
+.myQueue .accordian {
+    padding-left: 10px
+}
+
+
+.myQueue .active {
+    background: #999
+}
+.tableContainer table{
+    width: 100%;
+}
+   
+.tableContainer.savedIdeas table{
+       width: 50%;
+   }
+   .accordian table{
+       width: 100%;
+   }
+
+table {
+    border: 1px solid #EEEEEE;
+}
+
+tr:nth-child(even) {
+    background-color: #EEEEEE
+}
+
+th, td {
+    border: 1px solid #EEEEEE;
+    text-align: center;
+    padding: 5px
+}
+
+th {
+    background-color: #3598DB;
+    color: #fff;
+    text-align: left
+}
+
+td {
+    color: #333
+}
+
+.myQueue h2 {
+    color: #333
+}
+.myQueue h3 {
+    margin-top:0;
+    margin-bottom: 5px;
+    padding: 0;
+    display: inline-block;
+}
+.custom-modal .form-group label {
+    color: #333;
+    font-size: .80em;
+    font-weight: normal;
+    font-family: helvetica, Arial, sans-serif;
+}
